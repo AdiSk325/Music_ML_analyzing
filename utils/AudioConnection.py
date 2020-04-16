@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 import numpy as np
 import sklearn
@@ -12,7 +14,7 @@ import wave
 import time
 import sys
 
-import os
+
 
 class AudioConn():
 
