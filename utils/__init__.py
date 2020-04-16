@@ -4,7 +4,6 @@ import sklearn
 
 import matplotlib.pyplot as plt
 
-import soundfile as sf
 import librosa
 import librosa.display
 
